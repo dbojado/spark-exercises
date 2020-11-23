@@ -1,3 +1,4 @@
+[![Header](https://github.com/dbojado/spark-exercises/blob/main/images/Spark_Banner.png)(https://spark.apache.org)]
 # Apache Spark
 
 - Apache Spark is an open-source general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.
